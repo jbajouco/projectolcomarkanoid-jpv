@@ -1,0 +1,13 @@
+printf("                      M`                                              MM   \n");
+printf("      MM              M                                               Mh   \n");
+printf("     MNM              M                                    NM         M`   \n");
+printf("    s .M             .M                                               M    \n");
+printf("    h  Md            /M                                               M    \n");
+printf("   M   sM     sM M M md M` Mo  M   Mo   Mo M NM    M  `Md  Mo   /M    M    \n");
+printf("  MMMMMMM     hNM    MoN  .M   M   Mh   M`M  `M   M    -M  M`  .M    MM    \n");
+printf(" sN     MM    ms     M- M/     M/  M-   Mm   sM  -M    `M  M   Mo   /-M    \n");
+printf(" M      .M    MM     MM  M`   M-  mM`   Mh   mM   M    N-  M`  MM  M /M    \n");
+printf("Mh       MMMM Mh     M`   MMMdMMMd NM N M    sMMM /MN M    MMMd.MMM  `MMM  \n");
+
+
+http://sites.google.com/site/arkanoidjoaopedroevitor/home
