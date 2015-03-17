@@ -1,0 +1,1 @@
+Projecto realizado no âmbito da cadeira de LCOM do 2º ano da Faculdade de Engenharia da Universidade do Porto.
